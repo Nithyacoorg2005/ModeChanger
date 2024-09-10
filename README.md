@@ -1,2 +1,2 @@
 # ModeChanger
-used to change the display of the user Interface either in a dark mode or in a light mode
+The feature allows users to toggle between dark mode and light mode, providing a customizable display for the user interface. Dark mode offers a sleek, modern look that reduces eye strain in low-light environments, while light mode provides a clean and bright interface for well-lit settings. This flexibility enhances the overall user experience by catering to personal preferences and different lighting conditions. By switching modes, users can enjoy a more comfortable and visually appealing interface, whether they prefer a darker theme or a lighter one, ensuring an adaptable and user-friendly environment.
